@@ -12,6 +12,10 @@ This App leverages the GIPHY API to display a randomly generated gifs of your ch
 
 [GifTastic Demo](assets/images/giphy_demo.mp4)
 
+### Your Turn To Play
+
+[Click on this link to play with the app](https://winfredsunga-jw0226.github.io/GifTastic/)
+
 ### Tech Details
 This app is powered by
 * HTML5
